@@ -1,0 +1,19 @@
+{
+    "name": "simplex",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "ts-node index.ts"
+    },
+    "author": "Antony74",
+    "license": "MIT",
+    "dependencies": {
+        "@types/node": "^20.14.2",
+        "ts-arithmetic": "^0.1.1",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.4.5"
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "singleQuote": true
+    }
+}
